@@ -20,6 +20,8 @@
 - [Axios](https://axios-http.com/) - отправка запросов
 - [Tanstack Query](https://tanstack.com/query/latest) - обработка состояния запроса и временное кеширование данных из ответа
 
+Посмотреть готовую реализацию можно [здесь](https://kbtw.ru/flet-test/).
+
 ### Скриншоты
 
 ![screenshot](./assets/screenshot.png)
